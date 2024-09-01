@@ -1,0 +1,25 @@
+<footer>
+         <div class="footer-container">
+             <div class="follow">
+                 <h3><strong class="underline">Follow</strong>-Us</h3>
+                 <p><i class="fa fa-instagram"></i></p>
+                 <p><i class="fa fa-facebook"></i></p>
+                 
+                 
+              
+             </div><br><br>
+             <div class="usefulink">
+                 <h3><strong class="underline">Useful</strong>-Link</h3>
+                 <p><a href="contactus.html">Contact-Us</a></p>
+                 <p><a href="Terms & Conditions">Terms & Conditions</a></p>
+             </div><br><br>
+             <div class="happycoding">
+                 <h3 class="underline"><strong>Happy</strong>- Coding</h3>
+                 <p><span>&#128526;</span></p>
+                 <p><span>&#128522;</span></p>
+             </div>
+         </div><br>
+         <div class="finalefoot">
+            <h4>Copy 2024 All Right Reserved</h4>
+         </div>
+     </footer>
